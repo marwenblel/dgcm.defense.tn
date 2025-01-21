@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4d2a787f81b36d0e784faf04a37586b1",
+    "content-hash": "95609a4e6db79a42910ee4bd577aa45c",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1138,6 +1138,105 @@
                 }
             ],
             "time": "2024-02-05T11:35:39+00:00"
+        },
+        {
+            "name": "drupal/ckeditor_accordion",
+            "version": "2.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/ckeditor_accordion.git",
+                "reference": "2.2.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/ckeditor_accordion-2.2.0.zip",
+                "reference": "2.2.0",
+                "shasum": "bffafb1bc1dd2f16d918731be34ba468c12aca66"
+            },
+            "require": {
+                "drupal/core": "^9.4 || ^10 || ^11"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "2.2.0",
+                    "datestamp": "1724231021",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Juhani Väätäjä (j-vee)",
+                    "homepage": "https://www.drupal.org/u/j-vee",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Rotem Reiss (rreiss)",
+                    "homepage": "https://www.drupal.org/u/rreiss",
+                    "role": "Maintainer"
+                }
+            ],
+            "description": "Accordion plugin for CKEditor 5.",
+            "homepage": "https://www.drupal.org/project/ckeditor_accordion",
+            "support": {
+                "source": "https://git.drupalcode.org/project/ckeditor_accordion",
+                "issues": "https://www.drupal.org/project/issues/ckeditor_accordion"
+            }
+        },
+        {
+            "name": "drupal/ckeditor_bootstrap_tabs",
+            "version": "2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/ckeditor_bootstrap_tabs.git",
+                "reference": "2.1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/ckeditor_bootstrap_tabs-2.1.0.zip",
+                "reference": "2.1.0",
+                "shasum": "221ac5527f12be72b06055dc8ed6364b2ef91275"
+            },
+            "require": {
+                "drupal/core": "^9.3 || ^10"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "2.1.0",
+                    "datestamp": "1736431698",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "kedramon",
+                    "homepage": "https://www.drupal.org/user/1683772"
+                },
+                {
+                    "name": "ozin",
+                    "homepage": "https://www.drupal.org/user/2752909"
+                }
+            ],
+            "description": "Provides CKEditor5 Bootstrap Tabs widget.",
+            "homepage": "https://www.drupal.org/project/ckeditor_bootstrap_tabs",
+            "support": {
+                "source": "https://git.drupalcode.org/project/ckeditor_bootstrap_tabs"
+            }
         },
         {
             "name": "drupal/core",

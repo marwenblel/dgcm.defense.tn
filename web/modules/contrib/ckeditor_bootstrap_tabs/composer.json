@@ -1,0 +1,6 @@
+{
+    "name": "drupal/ckeditor_bootstrap_tabs",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}

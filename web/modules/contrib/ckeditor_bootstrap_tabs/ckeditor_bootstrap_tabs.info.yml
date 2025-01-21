@@ -1,0 +1,12 @@
+name: CKEditor5 Bootstrap Tabs
+type: module
+description: Provides CKEditor5 Bootstrap Tabs widget.
+package: CKEditor
+core_version_requirement: ^9.3 || ^10
+dependencies:
+  - drupal:ckeditor5
+
+# Information added by Drupal.org packaging script on 2025-01-09
+version: '2.1.0'
+project: 'ckeditor_bootstrap_tabs'
+datestamp: 1736431702

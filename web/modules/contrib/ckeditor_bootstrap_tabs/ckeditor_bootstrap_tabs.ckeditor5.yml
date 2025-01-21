@@ -1,0 +1,12 @@
+ckeditor_bootstrap_tabs_bootstrap_tabs:
+  ckeditor5:
+    plugins:
+      - ckeditor5-bootstrap-tabs.BootstrapTabs
+  drupal:
+    label: Bootstrab Tabs
+    library: ckeditor_bootstrap_tabs/ckeditor5_tabs
+    admin_library: ckeditor_bootstrap_tabs/admin.bootstrap_tabs
+    toolbar_items:
+      bootstrapTabs:
+        label: Bootstrap Tabs
+    elements: false

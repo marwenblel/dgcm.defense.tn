@@ -1,0 +1,23 @@
+{
+	"plugins": [
+		{
+			"name": "Bootstrap Tabs",
+			"className": "BootstrapTabs",
+			"description": "Provides CKEditor5 Bootstrap Tabs plugin.",
+			"path": "src/bootstraptabs.js",
+			"uiComponents": [
+				{
+					"type": "SplitButton",
+					"name": "bootstrapTabs",
+					"iconPath": "theme/icons/bootstrapTabs.svg"
+				}
+			],
+			"htmlOutput": [
+				{
+					"elements": "span",
+					"classes": "bootstrapTabs"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+form.bt-form {
+  display: flex;
+}
+form.bt-form .ck-dropdown__panel ul {
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 126px;
+}
+form.bt-form .ck-dropdown__panel ul li {
+  min-width: auto;
+}
+form.bt-form .ck-dropdown__panel ul li > button.ck-button {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 42px;
+  height: 42px;
+  cursor: pointer;
+}

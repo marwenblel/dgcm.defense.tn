@@ -1,0 +1,21 @@
+ckeditor5_tabs:
+  css:
+    theme:
+      css/tabs.css: { }
+      css/plugin.css: { }
+  js:
+    js/build/ckeditor5-bootstrap-tabs.js: { preprocess: false, minified: true }
+  dependencies:
+    - ckeditor5/ckeditor5
+
+tabs:
+  css:
+    theme:
+      css/tabs.css: { }
+  js:
+    js/tabs.js: { }
+
+admin.bootstrap_tabs:
+  css:
+    theme:
+      css/bootstrap_tabs.admin.css: { }
