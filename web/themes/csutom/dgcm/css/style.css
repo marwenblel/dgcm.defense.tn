@@ -4,3 +4,7 @@
 .view-front-slider .view-content {
     display: block;
 }
+/*.owl-carousel .owl-wrapper,
+.owl-carousel .owl-item{
+float: left;
+}*/
