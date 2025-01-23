@@ -4,7 +4,21 @@
 .view-front-slider .view-content {
     display: block;
 }
-/*.owl-carousel .owl-wrapper,
-.owl-carousel .owl-item{
-float: left;
-}*/
+
+/*****************************/
+#block-dgcm-views-block-news-block-1 .view-news {
+	display: block;
+}
+
+#block-dgcm-views-block-news-block-1 .view-news .view-content {
+	display: block;
+}
+
+
+/**********************/
+.ckeditor-accordion-container > dl dt.active > a {
+  background-color: #a99a42;
+}
+.ckeditor-accordion-container > dl {
+  border: 1px solid #a99a42;
+}

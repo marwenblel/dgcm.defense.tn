@@ -16,6 +16,7 @@
     ],
     "require": {
         "composer/installers": "^2.0",
+        "drupal/back_to_top": "^3.0",
         "drupal/ckeditor_accordion": "^2.2",
         "drupal/ckeditor_bootstrap_tabs": "^2.0",
         "drupal/core-composer-scaffold": "^10.3",
