@@ -3,7 +3,7 @@
         'name' => 'drupal/recommended-project',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'b2c8508c5f9d7e919ee7e9fa791d72530b41ea48',
+        'reference' => '28a0013b4d2a1c85dbd49c8f270bb7db2f89a539',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -370,6 +370,15 @@
                 0 => '10.3.11',
             ),
         ),
+        'drupal/nava' => array(
+            'pretty_version' => '1.0.3',
+            'version' => '1.0.3.0',
+            'reference' => '1.0.3',
+            'type' => 'drupal-theme',
+            'install_path' => __DIR__ . '/../../web/themes/contrib/nava',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'drupal/owlcarousel' => array(
             'pretty_version' => '3.0.1',
             'version' => '3.0.1.0',
@@ -382,7 +391,7 @@
         'drupal/recommended-project' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'b2c8508c5f9d7e919ee7e9fa791d72530b41ea48',
+            'reference' => '28a0013b4d2a1c85dbd49c8f270bb7db2f89a539',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
