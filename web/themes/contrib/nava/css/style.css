@@ -2973,3 +2973,13 @@ hr.line-double {
   }
 }
 /* widescreen *//*# sourceMappingURL=style.css.map */
+
+
+.splide__arrows {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 5;
+    direction: ltr;
+}
