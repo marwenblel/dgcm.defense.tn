@@ -2983,3 +2983,10 @@ hr.line-double {
     z-index: 5;
     direction: ltr;
 }
+
+html.js body.user-guest.frontpage.page-hero.page-type-page.no-sidebar div.dialog-off-canvas-main-canvas header.header.full-width section.section-hero.full-width div.container div.block-region.region-hero div#block-nava-slider.block div.block-content div.field.field-name-body.field-type-text-with-summary.field-label-hidden div.field.field-name-body.field-type-text-with-summary.field-label-hidden.field-item div#splide01.splide.splide--loop.splide--rtl.splide--draggable.is-active.is-overflow.is-initialized div.splide__arrows.splide__arrows--rtl button.splide__arrow.splide__arrow--prev svg {
+transform: scaleX(-1);
+}
+/*.header {
+	background: #c6b65f url('../images/header-bg.svg');
+}*/
