@@ -2990,3 +2990,15 @@ transform: scaleX(-1);
 /*.header {
 	background: #c6b65f url('../images/header-bg.svg');
 }*/
+.ckeditor-accordion-container > dl dt.active > a {
+  background-color: #c6b65f;
+}
+.ckeditor-accordion-container > dl dt.active > a:hover {
+  /*background-color: #1e6c2c;*/
+  Color: #000000;
+  background-color: #ffffff;
+}
+.ckeditor-accordion-container > dl {
+  position: relative;
+  border: 1px solid #e0f1d9;
+}
